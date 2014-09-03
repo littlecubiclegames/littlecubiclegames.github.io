@@ -1,0 +1,21 @@
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 6em;
+    margin: 0 auto;
+    padding-top: 200px;
+    text-align: center;
+}
+
+p {
+    margin: 0 auto;
+    text-align: center;
+}
